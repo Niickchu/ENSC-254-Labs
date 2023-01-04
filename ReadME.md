@@ -1,6 +1,6 @@
 # ENSC-254-Assignments
 
-## Note: These projects were developed for usage with a ZedBoard and the Xilinx Software Development Kit
+## Note: These assignments were developed for usage with a ZedBoard and the Xilinx Software Development Kit
 ### Most of these assignments will not run without the necessary project folder. Nevertheless, I will keep this repo public as proof that I can write 32-bit ARM assembly
 
 **Assignment 1: Big Add** \
