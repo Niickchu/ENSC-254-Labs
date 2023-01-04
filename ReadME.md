@@ -1,7 +1,7 @@
 # ENSC-254-Assignments
 
 ## Note: These projects were developed for usage with a ZedBoard and the Xilinx Software Development Kit
-### Note 2: Most of these assignments will not run without the necessary project folder. Nevertheless, I will keep this repo public as proof that I can write 32-bit ARM assembly
+### Most of these assignments will not run without the necessary project folder. Nevertheless, I will keep this repo public as proof that I can write 32-bit ARM assembly
 
 **Assignment 1: Big Add** \
 An assembly subroutine that accurately adds two large numbers (larger than 32 bits) from memory and stores the sum back into memory. Includes all possible cases and has error handling.
